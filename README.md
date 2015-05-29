@@ -23,9 +23,9 @@ In this example just some services was added. You are well come to fork this rep
 1. Clone this repository
 2. Import it as *Maven project* in Eclipse IDE
 3. Configure the following variables in *io.gogeo.app.App.java* file
-3.1. APIKEY
-3.2. DATABASENAME
-3.2. COLLECTIONNAME
+  1. APIKEY
+  2. DATABASENAME
+  3. COLLECTIONNAME
 4. Run as Java project
 
 ## Explanations

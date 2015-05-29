@@ -1,0 +1,6 @@
+.project
+*.swp
+.classpath
+.settings/**
+target/classes/**
+target/test-classes/**
